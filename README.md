@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexserban2002
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning at Ecole Polytechnique, Paris
+- 🌱 I’m currently studying at ETH Zurich
 - 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me 
 Email Adress: alexserban0127@gmail.com
